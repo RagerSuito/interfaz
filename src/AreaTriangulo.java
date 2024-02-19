@@ -78,7 +78,7 @@ public class AreaTriangulo {
 		textResul.setColumns(10);
 		
 		JButton btnCalcular = new JButton("Calcular");
-		btnCalcular.setBounds(250, 59, 85, 21);
+		btnCalcular.setBounds(200, 50, 80, 20);
 		frame.getContentPane().add(btnCalcular);
 		
 		btnCalcular.addActionListener(new ActionListener() {
